@@ -1,0 +1,11 @@
+D:\source\repos\Lab 2 Payroll Application\Lab 2 Payroll Application\bin\Debug\netcoreapp2.1\Lab 2 Payroll Application.deps.json
+D:\source\repos\Lab 2 Payroll Application\Lab 2 Payroll Application\bin\Debug\netcoreapp2.1\Lab 2 Payroll Application.runtimeconfig.json
+D:\source\repos\Lab 2 Payroll Application\Lab 2 Payroll Application\bin\Debug\netcoreapp2.1\Lab 2 Payroll Application.runtimeconfig.dev.json
+D:\source\repos\Lab 2 Payroll Application\Lab 2 Payroll Application\bin\Debug\netcoreapp2.1\Lab 2 Payroll Application.dll
+D:\source\repos\Lab 2 Payroll Application\Lab 2 Payroll Application\bin\Debug\netcoreapp2.1\Lab 2 Payroll Application.pdb
+D:\source\repos\Lab 2 Payroll Application\Lab 2 Payroll Application\obj\Debug\netcoreapp2.1\Lab 2 Payroll Application.csprojAssemblyReference.cache
+D:\source\repos\Lab 2 Payroll Application\Lab 2 Payroll Application\obj\Debug\netcoreapp2.1\Lab 2 Payroll Application.csproj.CoreCompileInputs.cache
+D:\source\repos\Lab 2 Payroll Application\Lab 2 Payroll Application\obj\Debug\netcoreapp2.1\Lab 2 Payroll Application.AssemblyInfoInputs.cache
+D:\source\repos\Lab 2 Payroll Application\Lab 2 Payroll Application\obj\Debug\netcoreapp2.1\Lab 2 Payroll Application.AssemblyInfo.cs
+D:\source\repos\Lab 2 Payroll Application\Lab 2 Payroll Application\obj\Debug\netcoreapp2.1\Lab 2 Payroll Application.dll
+D:\source\repos\Lab 2 Payroll Application\Lab 2 Payroll Application\obj\Debug\netcoreapp2.1\Lab 2 Payroll Application.pdb

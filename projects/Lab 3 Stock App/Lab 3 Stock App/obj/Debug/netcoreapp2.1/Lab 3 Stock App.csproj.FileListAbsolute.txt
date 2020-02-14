@@ -1,0 +1,11 @@
+C:\Users\Christian\source\repos\Lab 3 Stock App\Lab 3 Stock App\bin\Debug\netcoreapp2.1\Lab 3 Stock App.deps.json
+C:\Users\Christian\source\repos\Lab 3 Stock App\Lab 3 Stock App\bin\Debug\netcoreapp2.1\Lab 3 Stock App.runtimeconfig.json
+C:\Users\Christian\source\repos\Lab 3 Stock App\Lab 3 Stock App\bin\Debug\netcoreapp2.1\Lab 3 Stock App.runtimeconfig.dev.json
+C:\Users\Christian\source\repos\Lab 3 Stock App\Lab 3 Stock App\bin\Debug\netcoreapp2.1\Lab 3 Stock App.dll
+C:\Users\Christian\source\repos\Lab 3 Stock App\Lab 3 Stock App\bin\Debug\netcoreapp2.1\Lab 3 Stock App.pdb
+C:\Users\Christian\source\repos\Lab 3 Stock App\Lab 3 Stock App\obj\Debug\netcoreapp2.1\Lab 3 Stock App.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Lab 3 Stock App\Lab 3 Stock App\obj\Debug\netcoreapp2.1\Lab 3 Stock App.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Lab 3 Stock App\Lab 3 Stock App\obj\Debug\netcoreapp2.1\Lab 3 Stock App.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\Lab 3 Stock App\Lab 3 Stock App\obj\Debug\netcoreapp2.1\Lab 3 Stock App.AssemblyInfo.cs
+C:\Users\Christian\source\repos\Lab 3 Stock App\Lab 3 Stock App\obj\Debug\netcoreapp2.1\Lab 3 Stock App.dll
+C:\Users\Christian\source\repos\Lab 3 Stock App\Lab 3 Stock App\obj\Debug\netcoreapp2.1\Lab 3 Stock App.pdb

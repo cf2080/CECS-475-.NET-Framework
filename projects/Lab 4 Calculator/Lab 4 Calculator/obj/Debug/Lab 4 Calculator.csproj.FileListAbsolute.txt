@@ -1,0 +1,32 @@
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\App.g.cs
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator_MarkupCompile.cache
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\bin\Debug\Lab 4 Calculator.exe.config
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\bin\Debug\Lab 4 Calculator.exe
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\bin\Debug\Lab 4 Calculator.pdb
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator_MarkupCompile.lref
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\MainWindow.baml
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator.g.resources
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab_4_Calculator.Properties.Resources.resources
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator.exe
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator.pdb
+C:\Users\Christian\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator.csprojAssemblyReference.cache
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\bin\Debug\Lab 4 Calculator.exe.config
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\bin\Debug\Lab 4 Calculator.exe
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\bin\Debug\Lab 4 Calculator.pdb
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator.csprojAssemblyReference.cache
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\MainWindow.g.cs
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\App.g.cs
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator_MarkupCompile.cache
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator_MarkupCompile.lref
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\MainWindow.baml
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator.g.resources
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab_4_Calculator.Properties.Resources.resources
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator.csproj.GenerateResource.cache
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator.csproj.CoreCompileInputs.cache
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator.exe
+D:\source\repos\Lab 4 Calculator\Lab 4 Calculator\obj\Debug\Lab 4 Calculator.pdb

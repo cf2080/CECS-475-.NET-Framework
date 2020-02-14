@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_2_Payroll_Application.CommissionEmployee">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEIAAAAKAAEACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommissionEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2_Payroll_Application.HourlyEmployee">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABEAAAAQAAAEAAAAAAAAAAAACAAAAAgAAAAAAAA=</HashCode>
+      <FileName>HourlyEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2_Payroll_Application.PayrollSystemTest">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Lab_2_Payroll_Application.PayrollSystemTest.CompareDelegateSSN">
+        <TypeIdentifier>
+          <NewMemberFileName>PayrollSystemTest.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAACAIAAAAAAAABAAAAAA=</HashCode>
+      <FileName>PayrollSystemTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2_Payroll_Application.Employee">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Lab_2_Payroll_Application.Employee.SortByPayAscendingOrderHelper">
+        <TypeIdentifier>
+          <NewMemberFileName>Employee.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAEEAAAAAAAQEAAAAAAACAAAAAACAAAAEAAAAAAg=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab_2_Payroll_Application.SalariedEmployee">
+    <Position X="4.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEEAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>SalariedEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2_Payroll_Application.BasePlusCommissionEmployee">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAEAAAACAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasePlusCommissionEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Lab_2_Payroll_Application.IPayable">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPayable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

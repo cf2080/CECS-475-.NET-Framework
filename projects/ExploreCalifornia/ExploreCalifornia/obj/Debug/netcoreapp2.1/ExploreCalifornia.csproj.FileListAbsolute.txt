@@ -1,0 +1,14 @@
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.1\ExploreCalifornia.deps.json
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.1\ExploreCalifornia.runtimeconfig.json
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.1\ExploreCalifornia.runtimeconfig.dev.json
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.1\ExploreCalifornia.dll
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.1\ExploreCalifornia.pdb
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.1\ExploreCalifornia.csprojAssemblyReference.cache
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.1\ExploreCalifornia.csproj.CoreCompileInputs.cache
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.1\ExploreCalifornia.RazorAssemblyInfo.cache
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.1\ExploreCalifornia.RazorAssemblyInfo.cs
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.1\ExploreCalifornia.AssemblyInfoInputs.cache
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.1\ExploreCalifornia.AssemblyInfo.cs
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.1\ExploreCalifornia.RazorTargetAssemblyInfo.cache
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.1\ExploreCalifornia.dll
+D:\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.1\ExploreCalifornia.pdb
